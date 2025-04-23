@@ -13,10 +13,10 @@ This repo doesn't include the source code — it's private — but feel free to 
 
 Here’s a quick preview of what the site looks like:
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
-![Screenshot 3](assets/screenshot3.png)
-![Screenshot 4](assets/screenshot4.png)
+![Screenshot 1](assets/screenshot1.PNG)
+![Screenshot 2](assets/screenshot2.PNG)
+![Screenshot 3](assets/screenshot3.PNG)
+![Screenshot 4](assets/screenshot4.PNG)
 
 ---
 
